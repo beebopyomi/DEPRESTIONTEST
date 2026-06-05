@@ -9,9 +9,9 @@ The BAS file is available with the EXECUTABLE file.
 
 enjoy my work.
 
-Requirements for running the programm are as follows.
-Microsoft-DOS 2.1 or higher
-Any standard 16bit CPU
-384000 Bytes of random acces memory
-Anything that can hold 42000 Bytes of data. e.g 8" 80000 Byte floppy disk
-Anything that can display text on your computer monitor
+Requirements for running the programm are as follows.__
+Microsoft-DOS 2.1 or higher__
+Any standard 16bit CPU__
+384000 Bytes of random acces memory__
+Anything that can hold 42000 Bytes of data. e.g 8" 80000 Byte floppy disk__
+Anything that can display text on your computer monitor__
