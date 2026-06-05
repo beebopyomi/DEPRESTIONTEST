@@ -8,3 +8,10 @@ Made in QBasic because i want to learn it a bit.
 The BAS file is available with the EXECUTABLE file.
 
 enjoy my work.
+
+Requirements for running the programm are as follows.
+Microsoft-DOS 2.1 or higher
+Any standard 16bit CPU
+384000 Bytes of random acces memory
+Anything that can hold 42000 Bytes of data. e.g 8" 80000 Byte floppy disk
+Anything that can display text on your computer monitor
